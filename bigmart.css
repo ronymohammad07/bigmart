@@ -1,0 +1,25 @@
+.container {
+    margin-bottom: 60px;
+}
+/* navbar section */
+
+/* corousel section */
+.orange-bg {
+    background-color: rgb(252, 234, 232);
+    border-radius: 10px;
+}
+.carousel-item {
+    padding: 20px 30px;
+}
+.price {
+    color: rgb(255, 39, 124);
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom ,#FF5898 0% ,#ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    margin-top: 10px;
+}
