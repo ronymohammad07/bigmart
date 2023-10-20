@@ -23,3 +23,57 @@
     cursor: pointer;
     margin-top: 10px;
 }
+/* categories section */
+.categories h1{
+    color: white;
+}
+.categories img {
+    width: 100px;
+}
+.categories-1, .categories-2, .categories-3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.categories-1 {
+    background-color: rgb(255, 165, 0);
+}
+.categories-2 {
+    background-color: rgb(0, 255, 255);
+}
+.categories-3 {
+    background-color: rgb(0, 0, 255);
+}
+
+/* shoes section */
+.card-one img:hover {
+    background-color: rgb(0, 0, 255);
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+    background-color: white;
+}
+
+/* bag section */
+
+.card-tow>img:hover{
+    background-color: rgb(0, 255, 255);
+}
+
+.card-footer {
+    border: none;
+}
+
+/* subscrible section */
+.subscrible {
+    height: 300px;
+}
+.subscrible>.text-6 {
+    color: gray;
+}
+.card-footer-one {
+    background-color: rgb(252, 234, 232);
+}
